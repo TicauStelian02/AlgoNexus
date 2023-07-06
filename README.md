@@ -20,9 +20,9 @@ To install and run AlgoNexus locally, follow these steps:
 5. Generate the application key: `php artisan key:generate`
 6. Configure the database connection in the `.env` file.
 7. Run the database migrations: `php artisan migrate`
-8. Build the front-end assets: `npm run dev`
-9. Start the development server: `php artisan serve`
-10. Access the application in your browser at [http://localhost:8000](http://localhost:8000)
+8. Start the development server: `php artisan serve`
+9. Build the front-end assets: `npm run dev`
+10. Access the application in your browser at [http://localhost:3000](http://localhost:3000)
 
 ## License
 
