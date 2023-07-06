@@ -13,7 +13,7 @@ AlgoNexus is a powerful web application built with Laravel, React, and Docker. I
 
 To install and run AlgoNexus locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/AlgoNexus.git`
+1. Clone the repository: `git clone https://github.com/TicauStelian02/AlgoNexus.git`
 2. Navigate to the project directory: `cd AlgoNexus`
 3. Install the dependencies: `composer install && npm install`
 4. Copy the `.env.example` file to `.env`: `cp .env.example .env`

@@ -30,13 +30,13 @@ export default function DefaultLayout() {
   return (
     <div id="defaultLayout">
       <aside>
-        <Link to="/dashboard">Dashboard</Link>
-        <Link to="/users">Users</Link>
+        <Link to="/dashboard">Algorithms</Link>
+        <Link to="/users">AlgoUsers</Link>
       </aside>
       <div className="content">
         <header>
           <div>
-            Header
+            AlgoNexus - clean code for all!
           </div>
 
           <div>
